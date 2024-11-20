@@ -2,3 +2,5 @@
 .vscode
 project/.ipynb_checkpoints
 project/.DS_Store
+.desktop.ini
+*.pyc
