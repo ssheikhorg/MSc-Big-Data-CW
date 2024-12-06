@@ -78,7 +78,7 @@ To run the analysis and reproduce the results:
     ```
 3. Run the Jupyter notebook `Walmart_Sales_Analysis.ipynb` to see the analysis and insights.
     ```bash
-    jupyter notebook Walmart_Sales_Analysis.ipynb
+    jupyter notebook big_data_system_walmart_sales_analysis.ipynb
     ```
 
 Feel free to explore the dataset and code to adapt the analysis to your specific needs.
