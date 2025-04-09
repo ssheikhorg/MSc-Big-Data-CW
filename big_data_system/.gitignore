@@ -1,0 +1,11 @@
+.vscode
+.idea
+desktop.ini
+*.pyc
+
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+~$*
+
+Discussion.gdoc
