@@ -14,3 +14,11 @@ package-lock.json
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+.vscode
+desktop.ini
+
+.ipynb_checkpoints
+.DS_Store
+~$*
+Discussion.gdoc
